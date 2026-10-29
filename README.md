@@ -112,4 +112,4 @@ Understood? If you make it creative, it can work as a CV for you on Vercel in th
 And nowadays, people are looking at digital CVs.
 Understood? So start working on it.
 And if you need help anywhere, you can ask me."*
-now u have to make my third point which is make cv with multiple pages website 
+now u have to make my second point which is make cv in a single page website without ant scroller
